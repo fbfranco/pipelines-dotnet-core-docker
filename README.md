@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/BSLSI/SAIP/_apis/build/status/fbfranco.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/BSLSI/SAIP/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
