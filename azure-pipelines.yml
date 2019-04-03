@@ -13,5 +13,5 @@ variables:
   imageName: 'your-container-image-name:$(build.buildId)'
 
 steps:
-- script: docker build -t $(dockerId)/$(imageName) .  # add options to this command to meet your needs
+- script: docker build -t $(fbfranco)/$(imageName) .  # add options to this command to meet your needs
 
