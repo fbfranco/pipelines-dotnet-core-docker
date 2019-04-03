@@ -10,8 +10,8 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 variables:
-  imageName: 'your-container-image-name:$(build.buildId)'
+  imageName: $(build.buildId)
 
 steps:
-- script: docker build -t $(fbfranco)/$(imageName) .  # add options to this command to meet your needs
+- script: docker build -t $(build.buildId)/$(imageName) .  # add options to this command to meet your needs
 
