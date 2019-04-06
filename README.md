@@ -1,6 +1,7 @@
 [![Build Status](https://dev.azure.com/BSLSI/SAIP/_apis/build/status/fbfranco.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/BSLSI/SAIP/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
+Bismarck Franco Hoyos
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
